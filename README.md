@@ -1,7 +1,13 @@
 ### Hi there 👋
+<!--
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)" width="100"/>
+  <img src="https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif" width="600" height="300"/>
 </div>
+-->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goddo-ro)](https://github.com/Goddo-ro/github-readme-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddo-ro&layout=compact&theme=vision-friendly-dark)](https://github.com/Goddo-ro/github-readme-stats)
 
 <!--
 **Goddo-ro/Goddo-ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
