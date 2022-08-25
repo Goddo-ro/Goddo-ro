@@ -9,9 +9,6 @@
 </a>
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Goddo-ro)](https://github.com/Goddo-ro/github-readme-stats)
-<br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddo-ro&layout=compact&theme=vision-friendly-dark)](https://github.com/Goddo-ro/github-readme-stats)
 
 ## Stack
 
@@ -42,3 +39,5 @@
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+(https://github-readme-stats.vercel.app/api?username=Yakser&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
