@@ -12,18 +12,6 @@
 
 ## Stack
 
-### Backend
-
-![Python](https://img.shields.io/badge/-Python-FFC6D7?style=flat-square&logo=Python)
-![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
-![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
-![SqlAlchemy](https://img.shields.io/badge/-SqlAlchemy-FCA121?style=flat-square&logo=SqlAlchemy)
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-square&logo=MySQL)
-
 ### Frontend
 
 ![React](https://img.shields.io/badge/-React-202020?style=flat-square&logo=react)
@@ -31,6 +19,24 @@
 ![SCSS](https://img.shields.io/badge/-SCSS-94476E?style=flat-square&logo=SASS)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+### Backend
+
+![Python](https://img.shields.io/badge/-Python-FFC6D7?style=flat-square&logo=Python)
+![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
+![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=style=flat-square)
+
+### Databases
+
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=style=flat-square&logo=sqlite&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=style=flat-square&logo=postgresql&logoColor=white)
+
+### Desktop
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squar&logo=java&logoColor=white)
 
 ### Tools
 
