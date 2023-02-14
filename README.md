@@ -23,6 +23,7 @@
 ### Backend
 
 ![Python](https://img.shields.io/badge/-Python-FFC6D7?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
