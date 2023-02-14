@@ -37,7 +37,7 @@
 ### Desktop
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-squar&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-squar&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
 ### Tools
 
