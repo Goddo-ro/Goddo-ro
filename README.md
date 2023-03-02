@@ -27,6 +27,7 @@
 ![Django](https://img.shields.io/badge/-Django-092D1F?style=flat-square&logo=Django)
 ![Django REST framework](https://img.shields.io/badge/-Django%20REST%20framework-A30000?style=flat-square&logo=drf)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=style=flat-square)
 
 ### Databases
