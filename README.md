@@ -38,8 +38,6 @@
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092D1F?style=for-the-badge&logo=Django)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=for-the-badge&logo=Flask)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
