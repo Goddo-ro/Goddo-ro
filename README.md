@@ -8,7 +8,7 @@
   <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/2048px-VK.com-logo.svg.png" />
 </a>
 
-<a href="[https://vk.com/id325432771](https://www.codewars.com/users/Goddo-ro)">
+<a href="https://www.codewars.com/users/Goddo-ro">
   <img align="left" alt="Codewars" width="22px" src="https://www.codewars.com/packs/assets/logo-square-red-big.c74ae0e7.png" />
 </a>
 
