@@ -65,6 +65,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+### Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Goddo-ro&layout=compact&theme=radical&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Goddo-ro github stats](https://github-readme-stats.vercel.app/api?username=Goddo-ro&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
