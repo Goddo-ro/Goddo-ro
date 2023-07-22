@@ -18,7 +18,6 @@
 
 ### Frontend
 
-![React](https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1C?style=for-the-badge&logo=javascript&logoColor=white&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=for-the-badge&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=for-the-badge&logo=css3)
@@ -26,6 +25,7 @@
 
 ### Javascript libraries and tools
 
+![React](https://img.shields.io/badge/-React-202020?style=for-the-badge&logo=react)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
